@@ -6,6 +6,6 @@ services:
       - 8888:8888
       - 6006:6006
     volumes:
-      - ./Notebook:/tf/tensorflow-raf
+      - ./notebook:/tf/tensorflow-raf
     environment:
       - JUPYTER_TOKEN=RAF
