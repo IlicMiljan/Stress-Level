@@ -1,6 +1,8 @@
 # StressLevel
 
-Primena Neuronskih Mreža za detekciju nivoa stresa. **Autor**: Miljan Ilić RI5/2019
+Primena Neuronskih Mreža za detekciju nivoa stresa. 
+
+**Autor**: Miljan Ilić RI5/2019
 
 **Programski jezik:** Python / Jupyter Notebook
 
